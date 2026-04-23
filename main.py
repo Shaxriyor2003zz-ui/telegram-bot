@@ -1,10 +1,10 @@
 from aiogram import Bot, Dispatcher, types
 import asyncio
 
-BOT_TOKEN = "SIZNING_TOKEN"
+BOT_TOKEN = "8235644002:AAGR6uaVjMVBuncwS_mqvSThLGjrp7MsobI"
 CHANNEL_ID = "@sTsmarketpalace"
 
-bot = Bot(8235644002:AAGR6uaVjMVBuncwS_mqvSThLGjrp7MsobI)
+bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 AUTO_TEXT = """
