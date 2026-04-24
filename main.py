@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, types
 import asyncio
 
 BOT_TOKEN = "8235644002:AAGR6uaVjMVBuncwS_mqvSThLGjrp7MsobI"
-CHANNEL_ID = "@sTsmarketpalace"
+CHANNEL_ID = "@sTschexol"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
