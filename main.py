@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, types
 import asyncio
 
 BOT_TOKEN = "8235644002:AAGR6uaVjMVBuncwS_mqvSThLGjrp7MsobI"
-CHANNEL_ID = "@sTschexol"
+CHANNEL_ID = "@shuraparfume"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
@@ -11,8 +11,7 @@ AUTO_TEXT = """
 
 👤 Admin: @RF_shakhr
 📞 Telefon: +998 91 778 26 81
-📦 Tezkor yetkazib berish
-
+📦 Hamma shaharga dastavka bor!📦
 Buyurtma uchun admin bilan bog‘laning ✨
 """
 
